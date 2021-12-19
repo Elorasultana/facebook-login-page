@@ -5,6 +5,7 @@ void main() {
 }
 
 class Login extends StatelessWidget {
+  int a = 10;
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
